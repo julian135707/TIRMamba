@@ -8,7 +8,8 @@ Providence University, Taiwan
 
 [![arXiv](https://img.shields.io/badge/arXiv-2610.05182-b31b1b.svg)](https://arxiv.org/abs/2610.05182)
 
-This work has been submitted to *IEEE Trans.*. The preprint is available at [arXiv:2610.05182](https://arxiv.org/abs/2610.05182).
+This work has been submitted to *IEEE Trans.*
+The preprint is available at [arXiv:2610.05182](https://arxiv.org/abs/2610.05182).
 
 ## Status
 
